@@ -23,7 +23,7 @@ Trial registered on ClinicalTrials.gov with ID: NCT05189470 prior to trial comme
 The trial is registered on OSF, link: https://osf.io/bngya 
 Blinded abstract will be uploaded to OSF on this project link after analyses are conducted but before unblinding the results
 The R scripts included in this repository are also registered on OSF.  
-To ensure transparency and reproducibility, the OSF version was **frozen on 12 December 2025**, meaning no further modifications or deletions are possible.  
+To ensure transparency and reproducibility, the OSF version was **frozen on 10 December 2025**, meaning no further modifications or deletions are possible.  
 This guarantees a permanent, citable record of the scripts exactly as they were used in the study.
 
 ## Data Availability
