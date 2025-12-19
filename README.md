@@ -11,6 +11,7 @@ The purpose of this repository is to:
 ## About the R scripts
 The R scripts are listed by numbers in the order that they are supposed to be run. It is especially important to run the to first scripts (1_ and 2_) before the rest of the scripts are run.
 Anywhere in the scripts were 'Path_to_the_folder_in_the_working_directory' is written must be replaced with the path to the folder used within the working directory. The working directory has to be defined in script 2_ before the rest of the scripts are run.
+ChatGPT was used to assist coding of statistical analyses in R. 
 
 ## Published protocol
 Protocol published in BMJ Open: https://bmjopen.bmj.com/content/12/9/e062344. 
